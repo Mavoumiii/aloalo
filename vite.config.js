@@ -6,4 +6,4 @@ export default defineConfig({
   plugins: [vue()],
   base:'/aloalo-router_v_01/' 
 
-})
+}) 
